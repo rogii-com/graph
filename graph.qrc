@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/scenegraph/graph">
+        <file>main.qml</file>
+        <file>shaders/noisy.vsh</file>
+        <file>shaders/noisy.fsh</file>
+        <file>shaders/line.vsh</file>
+        <file>shaders/line.fsh</file>
+        <file>shaders/lateral_mask.png</file>
+        <file>WellBar.qml</file>
+        <file>GraphLabel.qml</file>
+    </qresource>
+</RCC>
